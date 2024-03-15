@@ -18,7 +18,7 @@ I love the entire process of solving complex business problems leveraging data &
 ## 🌱 I'm currently working on
 
 - My Portfolio projects
-- My Data-driver startup
+- My data-driven startup
 - My Certifications
 - My next blog :shipit:
   
